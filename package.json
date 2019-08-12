@@ -1,0 +1,22 @@
+{
+  "name": "expresstaskyeet",
+  "version": "1.0.0",
+  "description": "exploring express in class",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraydenGray416/ExpressTaskYeet.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Brayden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BraydenGray416/ExpressTaskYeet/issues"
+  },
+  "homepage": "https://github.com/BraydenGray416/ExpressTaskYeet#readme"
+}
